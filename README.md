@@ -12,7 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=merthkmdd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=merthkmdd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+![snake gif](https://github.com/YOUR_USERNAME/merthkmdd/blob/output/github-contribution-grid-snake.gif)
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
